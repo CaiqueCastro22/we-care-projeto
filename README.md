@@ -22,4 +22,15 @@ Criar uma página inicial simples para divulgação de um site, aplicando concei
 ---
 
 🖼 Preview do projeto
+
 <img src="./img/site-img.png"/>
+
+
+---
+
+📌 Status
+<p>✅ Concluído</p>
+
+<p>
+Desenvolvido como projeto educacional no <strong>DevClub</strong>.
+</p>
